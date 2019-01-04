@@ -125,8 +125,8 @@ public class RetrofitActivity extends Activity {
 
     }
 
-    private final static String CLIENT_PRI_KEY = "TAXAPP_CA.pfx";
-    private final static String CLIENT_BKS_PASSWORD = "c30lxH^ep1A6$sGxx3";
+    private final static String CLIENT_PRI_KEY = "";
+    private final static String CLIENT_BKS_PASSWORD = "";
     private final static String KEYSTORE_TYPE = "PKCS12";
     private final static String PROTOCOL_TYPE = "TLSv1";//TLS
     private final static String CERTIFICATE_FORMAT = "X509";
