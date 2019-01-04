@@ -1,4 +1,4 @@
-package com.gs.myceshi.Retrofit;
+﻿package com.gs.myceshi.Retrofit;
 
 import android.app.Activity;
 import android.content.Context;
@@ -49,7 +49,7 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-
+//已提交github
 public class RetrofitActivity extends Activity {
     LruCache<String,Bitmap> mlruCache;
     @Override
