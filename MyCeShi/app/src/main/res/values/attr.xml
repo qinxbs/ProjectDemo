@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="paddingtop" format="dimension" />
+
+    <declare-styleable name="my_declare_styleable">
+        <attr name="paddingtop" />
+    </declare-styleable>
+    <declare-styleable name="MyLinearLayout">
+        <attr name="tab_num" format="integer" />
+    </declare-styleable>
+</resources>
